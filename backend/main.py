@@ -32,6 +32,7 @@ class Lead(BaseModel):
 
 # Loading pre-trained model
 model = joblib.load("model/lead_scoring_model.joblib")
+#
 
 # In-memory storage for leads
 leads_storage = []
