@@ -112,7 +112,7 @@ This project implements a single-page application (SPA) for scoring real estate 
 | npm start fails | Missing dependencies or Node.js issue | Run `npm install`. Update Node.js or clear cache: `npm cache clean --force`. |
 | CORS error | Frontend-backend origin mismatch | Ensure backend CORS allows `http://localhost:3000` (already set in `main.py`). |
 
-## Additional Notes
+## Additional Notes##
 
 | Note | Details |
 |------|---------|
